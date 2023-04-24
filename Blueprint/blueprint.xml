@@ -2,9 +2,6 @@
 <Blueprint>
 	<Regions>
 		<Region Name="EN/DE/FR/JP" Version="2023.03.24.0000.0000">
-			<Warnings>
-				<Warning Text="Testing warning system 1-2-3" />
-			</Warnings>
 			<Opcodes>
 				<Opcode Name="StatusEffectList" Id="791" />
 				<Opcode Name="StatusEffectList2" Id="781" />
