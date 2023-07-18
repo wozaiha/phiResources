@@ -41,7 +41,7 @@
 				<Opcode Name="EventPlay64" Id="633" />
 			</Opcodes>
 		</Region>
-		<Region Name="KR" Version="2022.12.09.0000.0000">
+		<Region Name="KR" Version="2023.07.07.0000.0000">
 			<Opcodes>
 				<Opcode Name="StatusEffectList" Id="144" />
 				<Opcode Name="StatusEffectList2" Id="127" />
